@@ -1,0 +1,43 @@
+E:\the project to company of programming\the project\the project\bin\Debug\the project.exe
+E:\the project to company of programming\the project\the project\bin\Debug\the project.pdb
+E:\the project to company of programming\the project\the project\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\the project to company of programming\the project\the project\obj\x86\Debug\the_project.Form1.resources
+E:\the project to company of programming\the project\the project\obj\x86\Debug\the_project.Properties.Resources.resources
+E:\the project to company of programming\the project\the project\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\the project to company of programming\the project\the project\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\the project to company of programming\the project\the project\obj\x86\Debug\the project.exe
+E:\the project to company of programming\the project\the project\obj\x86\Debug\the project.pdb
+E:\the project to company of programming\the project\the project\obj\x86\Debug\the_project.Form2.resources
+E:\the project to company of programming\the project\the project\obj\x86\Debug\the_project.Form3.resources
+E:\the project to company of programming\the project\the project\obj\x86\Debug\the_project.Form4.resources
+E:\the project to company of programming\the project\the project\obj\x86\Debug\the_project.Form5.resources
+E:\the project to company of programming\the project\the project\obj\x86\Debug\the_project.Form7.resources
+E:\the project to company of programming\the project\the project\obj\x86\Debug\the_project.Form8.resources
+E:\the project to company of programming\the project\the project\obj\x86\Debug\the_project.Form9.resources
+E:\the project to company of programming\the project\the project\obj\x86\Debug\the_project.Form10.resources
+E:\the project to company of programming\the project\the project\obj\x86\Debug\the_project.Form11.resources
+E:\the project to company of programming\the project\the project\obj\x86\Debug\the_project.Form12.resources
+E:\the project to company of programming\the project\the project\obj\x86\Debug\the_project.Form13.resources
+E:\the project to company of programming\the project\the project\obj\x86\Debug\the_project.Form14.resources
+E:\the project to company of programming\the project\the project\obj\x86\Debug\the_project.Form15.resources
+E:\FCI\projects\the project to company of programming\the project\the project\obj\x86\Debug\the project.exe
+E:\FCI\projects\the project to company of programming\the project\the project\obj\x86\Debug\the project.pdb
+E:\FCI\projects\the project to company of programming\the project\the project\bin\Debug\the project.exe
+E:\FCI\projects\the project to company of programming\the project\the project\bin\Debug\the project.pdb
+E:\FCI\projects\the project to company of programming\the project\the project\obj\x86\Debug\the project.csprojResolveAssemblyReference.cache
+E:\FCI\projects\the project to company of programming\the project\the project\obj\x86\Debug\the_project.Form1.resources
+E:\FCI\projects\the project to company of programming\the project\the project\obj\x86\Debug\the_project.Form10.resources
+E:\FCI\projects\the project to company of programming\the project\the project\obj\x86\Debug\the_project.Form11.resources
+E:\FCI\projects\the project to company of programming\the project\the project\obj\x86\Debug\the_project.Form12.resources
+E:\FCI\projects\the project to company of programming\the project\the project\obj\x86\Debug\the_project.Form13.resources
+E:\FCI\projects\the project to company of programming\the project\the project\obj\x86\Debug\the_project.Form14.resources
+E:\FCI\projects\the project to company of programming\the project\the project\obj\x86\Debug\the_project.Form15.resources
+E:\FCI\projects\the project to company of programming\the project\the project\obj\x86\Debug\the_project.Form2.resources
+E:\FCI\projects\the project to company of programming\the project\the project\obj\x86\Debug\the_project.Form3.resources
+E:\FCI\projects\the project to company of programming\the project\the project\obj\x86\Debug\the_project.Form4.resources
+E:\FCI\projects\the project to company of programming\the project\the project\obj\x86\Debug\the_project.Form5.resources
+E:\FCI\projects\the project to company of programming\the project\the project\obj\x86\Debug\the_project.Form7.resources
+E:\FCI\projects\the project to company of programming\the project\the project\obj\x86\Debug\the_project.Form8.resources
+E:\FCI\projects\the project to company of programming\the project\the project\obj\x86\Debug\the_project.Form9.resources
+E:\FCI\projects\the project to company of programming\the project\the project\obj\x86\Debug\the_project.Properties.Resources.resources
+E:\FCI\projects\the project to company of programming\the project\the project\obj\x86\Debug\the project.csproj.GenerateResource.Cache
